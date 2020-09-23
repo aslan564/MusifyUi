@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "850786040058",
+    "firebase_url": "https://lofty-generator-265411.firebaseio.com",
+    "project_id": "lofty-generator-265411",
+    "storage_bucket": "lofty-generator-265411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850786040058:android:d825fe51b13149bd3df143",
+        "android_client_info": {
+          "package_name": "com.aslanovaslan.flutter_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850786040058-gmk217l4sfpnpqdbgrfifme7f28m6uht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iosQDeKycvjG1iNwuC55Gt2Pd2Fy89s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850786040058-gmk217l4sfpnpqdbgrfifme7f28m6uht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850786040058-slqd6e254bgg4i5ctupu7a4i1fevvqgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aslanovaslan.flutterwhatsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850786040058:android:406e49cd252dc8953df143",
+        "android_client_info": {
+          "package_name": "com.aslanovaslan.flutterwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850786040058-rt3qa106t2an40r4907g7b16neu3mtq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aslanovaslan.flutterwhatsapp",
+            "certificate_hash": "fc66e34f99f871ef34ec6b398bbfd2e635c35333"
+          }
+        },
+        {
+          "client_id": "850786040058-gmk217l4sfpnpqdbgrfifme7f28m6uht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iosQDeKycvjG1iNwuC55Gt2Pd2Fy89s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850786040058-gmk217l4sfpnpqdbgrfifme7f28m6uht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850786040058-slqd6e254bgg4i5ctupu7a4i1fevvqgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aslanovaslan.flutterwhatsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850786040058:android:eb8b431d975493e63df143",
+        "android_client_info": {
+          "package_name": "com.aslanovaslan.inlinechats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850786040058-gmk217l4sfpnpqdbgrfifme7f28m6uht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iosQDeKycvjG1iNwuC55Gt2Pd2Fy89s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850786040058-gmk217l4sfpnpqdbgrfifme7f28m6uht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850786040058-slqd6e254bgg4i5ctupu7a4i1fevvqgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aslanovaslan.flutterwhatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

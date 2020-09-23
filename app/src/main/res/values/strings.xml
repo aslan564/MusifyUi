@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MUSIFY</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="musify">MUSIFY</string>
+    <string name="music_player_content">An interactive music app designed to really provide a fully-formed experience to better your instrument playing.</string>
+    <string name="start_now">Start Now</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="lucas_arthur">Lucas Arthur</string>
+    <string name="hello">Hello</string>
+    <string name="last_seen_courses">Last Seen Courses</string>
+    <string name="beethoven_piano_cycles">Beethoven Piano Cycles</string>
+    <string name="beginner_alto_saxophone">Beginner Alto Saxophone</string>
+    <string name="guitar">Guitar</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/profileUser"
+        android:icon="@drawable/ic_user_profile"
+        android:iconTint="@android:color/white"
+        android:title="@string/search"
+        app:showAsAction="ifRoom"
+        tools:ignore="UnusedAttribute" />
+    <item
+        android:id="@+id/itemSearch"
+        android:icon="@drawable/ic_search"
+        android:iconTint="@android:color/white"
+        android:title="@string/profile"
+        app:showAsAction="ifRoom"
+        tools:ignore="UnusedAttribute" />
+</menu>
