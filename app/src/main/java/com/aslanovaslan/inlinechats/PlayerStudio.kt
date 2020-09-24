@@ -14,8 +14,7 @@ class PlayerStudio : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_player_studio)
-       // setSupportActionBar(toolbar)
-       // supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+
 
        setupPlayerPager()
     }

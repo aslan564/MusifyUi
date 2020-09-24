@@ -18,5 +18,7 @@
     <string name="start">Start</string>
     <string name="_30min">30min</string>
     <string name="advanced">Advanced</string>
+    <string name="playerimage">playerImage</string>
+    <string name="backgroundimage">backgroundImage</string>
 
 </resources>
