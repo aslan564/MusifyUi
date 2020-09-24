@@ -52,6 +52,11 @@ class FirstFragment : Fragment() {
         }
         recyclerViewAdapter = RecyclerViewAdapter(playerModel)
         val layoutManager = LinearLayoutManager(view.context, LinearLayoutManager.HORIZONTAL, false)
+
+        playerCardRecyclerCard.layoutManager=layoutManager
+        playerCardRecyclerCard.setHasFixedSize(true)
+       // playerCardRecyclerCard.adapter=
+
         recyclerView.layoutManager = layoutManager
         recyclerView.setHasFixedSize(true)
         recyclerView.adapter = recyclerViewAdapter

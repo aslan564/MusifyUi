@@ -13,5 +13,10 @@
     <string name="beethoven_piano_cycles">Beethoven Piano Cycles</string>
     <string name="beginner_alto_saxophone">Beginner Alto Saxophone</string>
     <string name="guitar">Guitar</string>
+    <string name="basic">Basic</string>
+    <string name="_45min">45min</string>
+    <string name="start">Start</string>
+    <string name="_30min">30min</string>
+    <string name="advanced">Advanced</string>
 
 </resources>

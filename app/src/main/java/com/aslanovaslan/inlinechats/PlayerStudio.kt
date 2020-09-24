@@ -14,11 +14,14 @@ class PlayerStudio : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_player_studio)
-        setupPlayerPager()
+       // setSupportActionBar(toolbar)
+       // supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+
+       setupPlayerPager()
     }
 
     private fun setupPlayerPager() {
-        viewPagerPlayerAdapter = PlayerViewPagerAdapter(supportFragmentManager)
+       viewPagerPlayerAdapter = PlayerViewPagerAdapter(supportFragmentManager)
         viewPagerPlayer.adapter = viewPagerPlayerAdapter
         viewPagerPlayerAdapter.addFragment(FirstFragment(),"New")
         viewPagerPlayerAdapter.addFragment(SecondFragment(),"Trendy")
